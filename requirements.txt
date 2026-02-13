@@ -1,6 +1,4 @@
-moviepy
 numpy
+soundfile
+moviepy
 Pillow
-google-api-python-client
-google-auth-oauthlib
-google-auth-httplib2
