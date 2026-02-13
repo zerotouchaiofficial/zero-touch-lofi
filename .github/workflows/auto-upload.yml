@@ -1,4 +1,4 @@
-name: Zero Touch AI Auto Generator
+name: Zero Touch AI Auto Generator + Upload
 
 on:
   schedule:
@@ -26,5 +26,10 @@ jobs:
     - name: Install Dependencies
       run: pip install -r requirements.txt
 
-    - name: Run Generator
+    - name: Generate Video
       run: python main.py
+
+    - name: Upload to YouTube
+      env:
+        YOUTUBE_CREDENTIALS: ${{ secrets.YOUTUBE_CREDENTIALS }}
+      run: python uploader.py
