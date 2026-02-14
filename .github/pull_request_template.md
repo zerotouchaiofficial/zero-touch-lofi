@@ -10,11 +10,11 @@ assignees: ''
 
 Provide a brief summary of the changes in this PR. Include context and motivation.
 
+For reference, see the repo: [Zero Touch Music GitHub](https://github.com/zerotouchaiofficial/Zero-Touch-Music/)
+
 ---
 
 ## 🔄 Type of Change
-
-Please check the relevant option(s):
 
 - [ ] Bug fix  
 - [ ] New feature  
@@ -28,12 +28,12 @@ Please check the relevant option(s):
 
 Describe how the changes were tested:
 
-- What steps did you take to verify correctness?  
-- Include test cases, if applicable.  
-- Mention if automated tests were added or updated.  
+- Steps to verify correctness  
+- Test cases, if applicable  
+- Automated tests run, if any  
 
 ```bash
-# Example: Run tests with pytest
+# Example
 pytest
 ```
 
@@ -41,16 +41,16 @@ pytest
 
 ## 📷 Screenshots (if applicable)
 
-If your change affects the UI, video generation, or visuals, include screenshots or GIFs here.
+Include screenshots or GIFs for UI, video generation, or visual changes.
 
 ---
 
 ## ✅ Checklist
 
-- [ ] Code follows PEP 8 standards  
-- [ ] No sensitive information (API keys, passwords, OAuth secrets) included  
+- [ ] Code follows PEP 8  
+- [ ] No sensitive information included  
 - [ ] Tests added/updated and passing  
-- [ ] Documentation updated as needed (README, comments, docstrings)  
+- [ ] Documentation updated if necessary  
 - [ ] Pull request title clearly describes the changes  
 
 ---
@@ -59,6 +59,4 @@ If your change affects the UI, video generation, or visuals, include screenshots
 
 Add any extra context, references, or information relevant to the reviewers.
 
----
-
-Thank you for contributing to **Zero Touch Music**! Your efforts help improve automation, reliability, and the user experience.
+Thank you for contributing to **Zero Touch Music**!
