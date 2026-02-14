@@ -1,0 +1,57 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment / secret files
+.env
+.env.*
+config.json
+credentials.json
+*.key
+*.pem
+
+# FFmpeg temporary or output files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.flv
+
+# Mac / Linux swap files
+*~
+*.swp
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Coverage reports
+.coverage
+htmlcov/
