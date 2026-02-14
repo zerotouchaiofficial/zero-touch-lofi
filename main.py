@@ -161,7 +161,7 @@ try:
 except:
     font = ImageFont.load_default()
 
-channel_name = "ZERO TOUCH AI"
+channel_name = "ZERO TOUCH MUSIC"
 
 bbox = draw.textbbox((0,0), channel_name, font=font)
 text_width = bbox[2] - bbox[0]
