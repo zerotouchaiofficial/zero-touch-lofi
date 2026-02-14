@@ -1,0 +1,50 @@
+# EditorConfig is awesome: https://editorconfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with UTF-8 encoding
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+
+# Python-specific settings
+[*.py]
+indent_style = space
+indent_size = 4
+max_line_length = 88
+charset = utf-8
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Markdown files
+[*.md]
+trim_trailing_whitespace = false
+max_line_length = off
+
+# JSON files
+[*.json]
+indent_style = space
+indent_size = 2
+
+# YAML files
+[*.yml]
+indent_style = space
+indent_size = 2
+
+# Ignore binary files
+[*.png]
+indent_style = unset
+trim_trailing_whitespace = false
+
+[*.jpg]
+indent_style = unset
+trim_trailing_whitespace = false
+
+[*.jpeg]
+indent_style = unset
+trim_trailing_whitespace = false
