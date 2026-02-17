@@ -1,7 +1,6 @@
 # 🎶 Zero Touch Lofi
 
-**Zero Touch Lofi
-** is a fully automated platform designed to generate, visualize, and upload **1-hour lo-fi music videos** to YouTube with zero manual intervention. Leveraging AI-driven automation, scheduling, and workflow orchestration, it allows creators, YouTube channels, and enthusiasts to maintain a consistent presence on the platform effortlessly.
+**Zero Touch Lofi** is a fully automated platform designed to generate, visualize, and upload **1-hour lo-fi music videos** to YouTube with zero manual intervention. Leveraging AI-driven automation, scheduling, and workflow orchestration, it allows creators, YouTube channels, and enthusiasts to maintain a consistent presence on the platform effortlessly.
 
 Whether you're a solo content creator looking to scale your output, a developer exploring AI-powered automation, or a YouTube channel aiming for regular uploads, Zero Touch Music handles the entire pipeline end-to-end.
 
